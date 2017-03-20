@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e1a9afe80e7646fcd0e64671f7ef3f757003ff9">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e04db797b052cfac969a7b6a4edbf94983871ed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_e6dbd34a70ff9a7f2a19f60ebd2b8fdd0ab409f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_7ae31e980f5a7e50285ad601bf7115bf37b3eda1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_b6014b5b9216236a333d9e9f43ac9aa33846acf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_b7209c6270511864814994d154baa6677935ed9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5a8bb2c9e45953aee6f35446570c04fa6edbe87">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6e9085ba673b54ef604111a3d0bc5866489a5831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_8255d075e0d6b403ed761001627a1026319a7e5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/aleishanelson/Downloads/ToDoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_679443ad0a46215751a687517bc91a3aad904332/classes.dex" />
+    </item>
+
+</items>
